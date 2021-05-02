@@ -65,8 +65,8 @@ This technique to predict the accuracy is not much helpful because Low-risk reca
 ![RandomForestClassifier-accuracyscore-cm-classificationreport](/images/08_RandomForest_results.PNG) 
 
 <br/>
- 1. Balanced Accuracy Score is 78%
- 1. High Risk Precision is around 3% which is very less 
+ 1. Balanced Accuracy Score is 78%.
+ 1. High Risk Precision is around 3% which is very less.
  1. The recall or sensitivity is almost high for both Low Risk and High-Risk, but is the  recall is higher than the low risk then it will be much helpful to use this model.
 <br/>
 Sorted Features which are highly affecting the Defaulting the payments.
