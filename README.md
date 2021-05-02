@@ -1,4 +1,4 @@
-# # Credit_Risk_Analysis
+# Credit_Risk_Analysis
 
 ## Purpose:
 The purpose of this use case is to evaluate different models to predict default of the payments which indirectly affects credit risk, used oversampling (randomoversampler & SMOTE), undersampling ( ClusterCentroids) and SMOTEENN alogrithms for combination of both oversampling and undersampling. Along with that we used RandomForest and EasyEnsmeble Classifier.
