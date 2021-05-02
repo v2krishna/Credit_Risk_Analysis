@@ -54,14 +54,12 @@ This technique to predict the accuracy is not much helpful because Low-risk reca
 #### SMOTEENN
  ![SMOTEENN-accuracyscore-cm-classificationreport](/images/07_combo_all.PNG) 
  
- <br/>
- 1. Balanced Accuracy Score is 54%
- 1. High Risk Precision is around 1% which is very less 
+ 1. Balanced Accuracy Score is 54%.
+ 1. High Risk Precision is around 1% which is very less.
  1. The Low Risk Precision is 100% which is way high to believe the accuracy and we can confirm its been biased on the dataset.
  1. Recall or Sensitvitiy of low Risk is almost around 57 % which is very less to use.
 
-This technique to predict the accuracy is not much helpful because Low-risk recall is very less but where as the high risk recall is around 70 % which helps to predict the default is around 70%
-
+This technique to predict the accuracy is not much helpful because Low-risk recall is very less but where as the high risk recall is around 70 % which helps to predict the default is around 70%.
 
 ### BalancedRandomForestClassifier model
 ![RandomForestClassifier-accuracyscore-cm-classificationreport](/images/08_RandomForest_results.PNG) 
