@@ -64,7 +64,6 @@ This technique to predict the accuracy is not much helpful because Low-risk reca
 ### BalancedRandomForestClassifier model
 ![RandomForestClassifier-accuracyscore-cm-classificationreport](/images/08_RandomForest_results.PNG) 
 
-<br/>
  1. Balanced Accuracy Score is 78%.
  1. High Risk Precision is around 3% which is very less.
  1. The recall or sensitivity is almost high for both Low Risk and High-Risk, but is the  recall is higher than the low risk then it will be much helpful to use this model.
@@ -76,7 +75,6 @@ Based on the above results, we can say total_rec_prncp feature is highly effecti
 ### BalancedRandomForestClassifier model
 ![EasyEnsembleClassifier-accuracyscore-cm-classificationreport](/images/10_esayEnsemble.PNG) 
 
-<br/>
  1. Balanced Accuracy Score is 93%.
  1. High Risk Precision is around 9% which is still very less but to other models the value is little higher.
  1. The recall or sensitivity is almost 92% for both Low Risk and High-Risk , with this we can atleast use this model to predict the status correctly.
